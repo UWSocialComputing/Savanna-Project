@@ -35,19 +35,20 @@ That's it!
 13. Copy this server template: https://discord.new/6km4upwRyFES
 14. After you've created the server, right click on the server's name and copy its ID
 15. Right click on the channel category called "1:1 support" and copy its ID
+16. Go back to the "OAuth2" tab. Select "bot" under scopes. Select "Administrator" under Bot Permissions. Copy the generated link and paste it into your browser and authorize the bot into your server. 
 #### Replit
-16. Go to the left and click on the padlock icon. Add the following secrets:
+17. Go to the left and click on the padlock icon. Add the following secrets:
 
 - key="TOKEN" value=<what you copied in step 11\> 
 - key="CLIENT_ID" value=<what you copied in step 12\> 
 - key="GUILD_ID" value=<what you copied in step 14\> 
 - key="CATEGORY_ID" value=<what you copied in step 15\> 
 
-17. You should now be able to click the big green "Run" button at the top of your Replit window! Keep an eye on the console on the right hand side. Once it says "Ready!" the bot is up and running
-18. The last thing you need to do is get the bot instructions. Go to the "start-here" channel and type "!start". You should see the bot respond with instructions.
-19. Go to the "help" channel and type "!help". You should see the bot respond with instructions
-20. Go to the "help-archive" channel and type "!archive". You should see the bot respond with instructions
-21. The bot is now ready to help people support each other <3
+18. You should now be able to click the big green "Run" button at the top of your Replit window! Keep an eye on the console on the right hand side. Once it says "Ready!" the bot is up and running
+19. The last thing you need to do is get the bot instructions. Go to the "start-here" channel and type "!start". You should see the bot respond with instructions.
+20. Go to the "help" channel and type "!help". You should see the bot respond with instructions
+21. Go to the "help-archive" channel and type "!archive". You should see the bot respond with instructions
+22. The bot is now ready to help people support each other <3
     
 ## How to interact with the bot
 The bot responds to slash commands.
