@@ -20,8 +20,8 @@ That's it!
 ### Steps
 #### Replit
 1. In order to get my code, please go to this link: https://replit.com/@savannanoh/capstone4
-2. Log in to your Replit account, and then you should be able to fork my repository by clicking the button in the top-right corner that says "fork repl".
-3. Before you can run the bot, you need to set up the bot on your Discord
+1. Log in to your Replit account, and then you should be able to fork my repository by clicking the button in the top-right corner that says "fork repl".
+1. Before you can run the bot, you need to set up the bot on your Discord
 #### Discord
 4. Turn on developer mode on your Discord account. (Click on the gear icon near the bottom by your avatar. Scroll down to "Advanced" on the left. Toggle Developer Mode on.)
 5. Go to https://discord.com/developers/applications
