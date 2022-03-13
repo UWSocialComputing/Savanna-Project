@@ -23,32 +23,32 @@ That's it!
 1. Log in to your Replit account, and then you should be able to fork my repository by clicking the button in the top-right corner that says "fork repl".
 1. Before you can run the bot, you need to set up the bot on your Discord
 #### Discord
-4. Turn on developer mode on your Discord account. (Click on the gear icon near the bottom by your avatar. Scroll down to "Advanced" on the left. Toggle Developer Mode on.)
-5. Go to https://discord.com/developers/applications
-6. Click the "New Application" button in the top-right
-7. Name your bot, then click "Create"
-8. Go to the "Bot" tab on the left
-9. Click the "Add Bot" button on the right
-10. Follow the default steps
-11. Next to the picture of your bot should be the place you can copy or generate a token for your bot. Copy the token.
-12. Go to the "OAuth2" tab on the left. Copy the client id.
-13. Copy this server template: https://discord.new/6km4upwRyFES
-14. After you've created the server, right click on the server's name and copy its ID
-15. Right click on the channel category called "1:1 support" and copy its ID
-16. Go back to the "OAuth2" tab. Select "bot" under scopes. Select "Administrator" under Bot Permissions. Copy the generated link and paste it into your browser and authorize the bot into your server. 
+1. Turn on developer mode on your Discord account. (Click on the gear icon near the bottom by your avatar. Scroll down to "Advanced" on the left. Toggle Developer Mode on.)
+1. Go to https://discord.com/developers/applications
+1. Click the "New Application" button in the top-right
+1. Name your bot, then click "Create"
+1. Go to the "Bot" tab on the left
+1. Click the "Add Bot" button on the right
+1. Follow the default steps
+1. Next to the picture of your bot should be the place you can copy or generate a token for your bot. Copy the token.
+1. Go to the "OAuth2" tab on the left. Copy the client id.
+1. Copy this server template: https://discord.new/6km4upwRyFES
+1. After you've created the server, right click on the server's name and copy its ID
+1. Right click on the channel category called "1:1 support" and copy its ID
+1. Go back to the "OAuth2" tab. Select "bot" under scopes. Select "Administrator" under Bot Permissions. Copy the generated link and paste it into your browser and authorize the bot into your server. After the bot has been added, make sure it has the highest level role (is above all the other roles in the settings)
 #### Replit
-17. Go to the left and click on the padlock icon. Add the following secrets:
+1. Go to the left and click on the padlock icon. Add the following secrets:
 
 - key="TOKEN" value=<what you copied in step 11\> 
 - key="CLIENT_ID" value=<what you copied in step 12\> 
 - key="GUILD_ID" value=<what you copied in step 14\> 
 - key="CATEGORY_ID" value=<what you copied in step 15\> 
 
-18. You should now be able to click the big green "Run" button at the top of your Replit window! Keep an eye on the console on the right hand side. Once it says "Ready!" the bot is up and running
-19. The last thing you need to do is get the bot instructions. Go to the "start-here" channel and type "!start". You should see the bot respond with instructions.
-20. Go to the "help" channel and type "!help". You should see the bot respond with instructions
-21. Go to the "help-archive" channel and type "!archive". You should see the bot respond with instructions
-22. The bot is now ready to help people support each other <3
+1. You should now be able to click the big green "Run" button at the top of your Replit window! Keep an eye on the console on the right hand side. Once it says "Ready!" the bot is up and running
+1. The last thing you need to do is get the bot instructions. Go to the "start-here" channel and type "!start". You should see the bot respond with instructions.
+1. Go to the "help" channel and type "!help". You should see the bot respond with instructions
+1. Go to the "help-archive" channel and type "!archive". You should see the bot respond with instructions
+1. The bot is now ready to help people support each other <3
     
 ## How to interact with the bot
 The bot responds to slash commands.
